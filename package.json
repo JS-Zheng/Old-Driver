@@ -1,0 +1,11 @@
+{
+  "name": "old-driver",
+  "version": "1.0.0",
+  "description": "Old Driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JS-Zheng",
+  "license": "MIT"
+}
